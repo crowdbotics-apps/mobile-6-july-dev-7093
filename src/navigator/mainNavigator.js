@@ -11,7 +11,6 @@ import BlankScreen28016Navigator from '../features/BlankScreen28016/navigator';
 import BlankScreen18015Navigator from '../features/BlankScreen18015/navigator';
 import BlankScreen28014Navigator from '../features/BlankScreen28014/navigator';
 import BlankScreen18013Navigator from '../features/BlankScreen18013/navigator';
-import BlankScreen28012Navigator from '../features/BlankScreen28012/navigator';
 import BlankScreen18010Navigator from '../features/BlankScreen18010/navigator';
 import BlankScreen48004Navigator from '../features/BlankScreen48004/navigator';
 import CalendarView8003Navigator from '../features/CalendarView8003/navigator';
@@ -48,7 +47,6 @@ BlankScreen28016: { screen: BlankScreen28016Navigator },
 BlankScreen18015: { screen: BlankScreen18015Navigator },
 BlankScreen28014: { screen: BlankScreen28014Navigator },
 BlankScreen18013: { screen: BlankScreen18013Navigator },
-BlankScreen28012: { screen: BlankScreen28012Navigator },
 BlankScreen18010: { screen: BlankScreen18010Navigator },
 BlankScreen48004: { screen: BlankScreen48004Navigator },
 CalendarView8003: { screen: CalendarView8003Navigator },
