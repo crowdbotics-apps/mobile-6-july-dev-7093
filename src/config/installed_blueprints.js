@@ -4,7 +4,6 @@ export const installed_blueprints = [
 { name: 'EmailAuth7969', human_name: 'Email Auth', access_route: 'EmailAuth7969', icon: 'envelope-o'},
 { name: 'CalendarView7968', human_name: 'Calendar View', access_route: 'CalendarView7968', icon: 'calendar'},
 { name: 'BlankScreen47967', human_name: 'Blank Screen 4', access_route: 'BlankScreen47967'},
-{ name: 'BlankScreen47966', human_name: 'Blank Screen 4', access_route: 'BlankScreen47966'},
 { name: 'Messenger', human_name: 'Messenger', access_route: 'Messenger', icon: 'comments'},
 { name: 'Calendar', human_name: 'Calendar', access_route: 'Calendar', icon: 'calendar'},
 { name: 'EmailAuth', human_name: 'EmailAuth', access_route: 'EmailAuth', icon: 'envelope-o'},
